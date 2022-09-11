@@ -34,7 +34,7 @@ other = "返回 <a href=\"{{ . }}\">首页</a>."
 other = "Licensed under"
 
 [powered_by]
-other = "技术支持"
+other = "本站基于"
 
 [see_also]
 other = "参见"
